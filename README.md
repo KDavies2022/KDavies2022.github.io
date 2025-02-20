@@ -17,13 +17,16 @@ My coursework in computer science provided me with essential skills, including p
 
 ## Security
 Over the course of the last two years while working to get my bachelor's degree I've had a focus on Cybersecurity as my concentration. I've completed coursework covering everything from python scripting all they through to full-stack developement and Application Security Features. I've touched on the topics of Salt/Hash Tables, I've worked with setting up Authentication sources in my Full-Stack App. One of the enhancements was actually getting the Authentication system working. In my original design I had left this portion unfinished as I had ran out of time to get it corrected. Now with my updated code this is functional. I've covered vulnerability and patching, and how to handle breaches and important topics like the CIA Triad and how these make the building blocks for better Security Policy decision making.
+
 ---
 ## My Full-Stack Developement Application
 (Placeholder - Date of Creation, Purpose, Shortcomings in the original, link to original Source Code)
+
 ---
 ## Code Review
 
 (placeholder) 
+
 --
 
 ## Enhancement One: Software Design and Engineering
