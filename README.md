@@ -16,3 +16,21 @@ A deep understanding of data structures and algorithms has been fundamental to m
 My coursework in computer science provided me with essential skills, including proficiency in modern web frameworks like React, Node.js, and Express, alongside HTML, CSS, and JavaScript for front-end design. On the back end, I gained experience building robust APIs and integrating them with NoSQL databases, ensuring scalable and efficient data management. I also became proficient in using Git for version control and collaborating in Agile environments, allowing me to contribute effectively to team projects. My database knowledge was applied in MongoDB for flexible, unstructured data storage. The project featured in my ePortfolio, demonstrating my ability to develop end-to-end solutions that balance performance, maintainability, and user experience. This full-stack expertise, paired with strong software engineering principles, positions me as a capable and adaptable developer ready for real-world challenges.
 
 ## Security
+Over the course of the last two years while working to get my bachelor's degree I've had a focus on Cybersecurity as my concentration. I've completed coursework covering everything from python scripting all they through to full-stack developement and Application Security Features. I've touched on the topics of Salt/Hash Tables, I've worked with setting up Authentication sources in my Full-Stack App. One of the enhancements was actually getting the Authentication system working. In my original design I had left this portion unfinished as I had ran out of time to get it corrected. Now with my updated code this is functional. I've covered vulnerability and patching, and how to handle breaches and important topics like the CIA Triad and how these make the building blocks for better Security Policy decision making.
+---
+## My Full-Stack Developement Application
+(Placeholder - Date of Creation, Purpose, Shortcomings in the original, link to original Source Code)
+---
+## Code Review
+
+(placeholder) 
+--
+
+## Enhancement One: Software Design and Engineering
+(Placeholder - Overhauling Code base, struggles and successes, Link to updated files)
+
+## Enhancement Two: Algorithms and Data Structure
+(Placeholder - completed SPAs, and updated HTML structures, Link to updated files)
+
+## Enhancement Three: Databases
+(Placeholder - completed CRUD modules, and updated Admin Login SPA, Link to updated files)
