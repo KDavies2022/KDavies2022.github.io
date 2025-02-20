@@ -27,7 +27,7 @@ Over the course of the last two years while working to get my bachelor's degree 
 
 (placeholder) 
 
---
+---
 
 ## Enhancement One: Software Design and Engineering
 (Placeholder - Overhauling Code base, struggles and successes, Link to updated files)
