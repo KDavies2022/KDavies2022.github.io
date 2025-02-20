@@ -20,7 +20,9 @@ Over the course of the last two years while working to get my bachelor's degree 
 
 ---
 ## My Full-Stack Developement Application
-(Placeholder - Date of Creation, Purpose, Shortcomings in the original, link to original Source Code)
+In my Full-Stack Developement class we were tasked with creating a full stack webpage using MEAN which is MongoDB, Express, Angular, and Node.Js. We set up the page with some pre-existing HTML elements from our 'client' Travlr Travel Service. I completed my final commit of my original design on December 14th, 2024. I had some issues when it came to the final completion of this module. I had broken logins, buttons that didn't work, some CRUD features that didn't exist and overall I was dissastisfied with most of my code base as a whole. I saw several opprortunities over this course to spruce it up, get things working as intended and ultimately expand on my original design to produce something that is fully functional and showcases my talents. I feel like this Artifact is a good showcase of my skills because it includes everything. As a Full-Stack webpage it has front end using Java and HTML, a backend using MongoDB, and using Mongoose as an intermediary highlights my ability to create something that highlights all the skills necessary to show I'm ready to earn my degree.
+
+The Enhancements I made completely cleaned up my code, showing a skill in code writing, and communication. I've added functionality that was missing, overlooked, or didn't function in the first place.
 
 ---
 ## Code Review
