@@ -1,4 +1,5 @@
-##Keaton Davies - 2025 Graduate
-# Full Stack Engineering since 2024!
+#Keaton Davies - 2025 Graduate
+## Full Stack Engineering since 2024!
 
-Hello, I am Keaton Davies. I've been working on getting my Bachelor's Degree in Computer Science since 2022. I've had a long road and I've had plenty of setbacks.
+Hello, I am Keaton Davies. I've been working on getting my Bachelor's Degree in Computer Science since 2022. I've had a long road and I've had plenty of setbacks. This is my professional reflection on my work that I've done throughout this course. I've attempted this Capstone three times now. The first time I tried I had my hard drive fail. The second time I had my Aunt die. This time I've had a CPU fan fail but that didn't stop me this time. I've pushed through and that alone speaks to my perseverance. This has been a marathon and not a sprint in my case. Outside of my course work I've built several small goofy python scripts. One of which is a little discord bot that responds when specific words are used in a chat, and another is a D&D stat generator that 'rolls' six sets of three six sided dice to determine a character's stats. In my professional work I am currently working at a Non-profit where I am an IT Specialist II and part of a very small IT team. I manage a little bit of everything from printer issues all the way up to major outages alongside our Director and the other two IT specialists. 
+
