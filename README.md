@@ -24,6 +24,8 @@ In my Full-Stack Developement class we were tasked with creating a full stack we
 
 The Enhancements I made completely cleaned up my code, showing a skill in code writing, and communication. I've added functionality that was missing, overlooked, or didn't function in the first place.
 
+For my original code [look here](https://github.com/KDavies2022/cs465-fullstack/tree/module7)
+
 ---
 ## Code Review
 
@@ -35,6 +37,8 @@ The Enhancements I made completely cleaned up my code, showing a skill in code w
 For the first enhancement I was overall dissastisfied with the course guides as they had been presented. It required using old installations of some applications just to get it to run correctly or the professor had to advise that the guides were incorrect in places. Overall I went ahead and completely rebuilt most of this code from the ground up. It still ultimately displays the same because I didn't want to deviate too far from the original but on the back end everything was overhauled. During this process I touched on almost everything. I was able to get several features that before weren't working at all updated. With the updated applications in mind I did have to change how the routing worked between the front and back end. When I first had made this project according to the original documents I hadn't made a Delete function, I wasn't able to authenticate users, and the SPA for updating the database was broken and only displayed the header and a white page.
 
 During this course of this enhancement I refactored the base code and got these features either created or working as intended alongside just getting everything cleaned up and working with updated versions of NPM. This highlights my ability to solve logical problems in software, address design flaws that would have been issues for security, and overall showcase my ability to update my code to industry standard best practices.
+
+For the Updated Code [look here](https://github.com/KDavies2022/KDavies2022.github.io)
 
 ## Enhancement Two: Algorithms and Data Structure
 (Placeholder - completed SPAs, and updated HTML structures, Link to updated files)
