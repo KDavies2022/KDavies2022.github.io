@@ -29,7 +29,7 @@ For my original code [look here](https://github.com/KDavies2022/cs465-fullstack/
 ---
 ## Code Review
 
-https://youtu.be/XBU2__Vklh4 
+[My code review is hosted on Youtube due to file size](https://youtu.be/XBU2__Vklh4)
 
 ---
 
